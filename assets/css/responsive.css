@@ -1,0 +1,352 @@
+/* Medium Layout: 970px.  */
+ 
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	
+	.submit a {
+		margin-left: 59%;
+	}
+	.single-banner {
+		padding: 200px 150px;
+	}
+	.single-banner h1 {
+		font-size: 58px;
+	}
+	.search-home {
+		padding: 8px 32px;
+	}
+	.user-pannel-left img {
+		width: 150px;
+		height: 150px;
+		margin-left: -15px;
+	}
+	.user-pannel-left a {
+		margin: 0 2px;
+	}
+	.intro-title h1 {
+		font-size: 36px;
+	}
+	.home-view-banner img {
+		height: 420px;
+	}
+	.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+		line-height: 1;
+		height: 420px;
+	}
+	.single-similar-home img {
+		height: 120px;
+	}
+	.single-similar-home-info h3 {
+		font-size: 20px;
+	}
+	.single-similar-home-info p {
+		font-size: 22px;
+	}
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tablet Layout: 768px.  750px*/
+ 
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+	.submit a {
+		margin-left: 44%;
+		display: inline-block;
+	}
+	.single-banner {
+		padding: 140px 20px;
+	}
+	.single-banner h1 {
+		font-size: 50px;
+	}
+	.info-btm-right {
+		margin-top: -55px;
+	}
+	.footer-top {
+		padding: 80px 100px;
+	}
+	.reg {
+		margin: 100px 0px;
+	}
+	.reg-form {
+		margin: 20px 20px 20px 0;
+	}
+	.user-pannel-left {
+		border-right: 0px;
+		padding: 10px 275px;
+	}
+	.single-user-content {
+		margin-bottom: 30px;
+	}
+	.intro-title h1 {
+		font-size: 28px;
+	}
+	.intro-title p {
+		font-size: 14px;
+	}
+	.add-cart a {
+		padding: 10px 15px;
+		font-size: 14px;
+	}
+	.amount h2 {
+		font-size: 28px;
+	}
+	.home-view-banner img {
+		height: 350px;
+	}
+	.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+		height: 350px;
+	}
+	.owner-info h3 {
+		font-size: 16px;
+	}
+	.owner-info a {
+		font-size: 14px;
+	}
+	.similar-home {
+		padding: 10px;
+	}
+	.similar-home h2 {
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+	.single-similar-home img {
+		height: 80px;
+	}
+	.single-similar-home-info {
+		top: 25%;
+		text-align: center;
+	}
+	.single-similar-home-info h3 {
+		font-size: 16px;
+	}
+	.single-similar-home-info p {
+		font-size: 22px;
+	}
+	.property-description {
+		padding: 15px 20px;
+	}
+	.property-description h2 {
+		font-size: 20px;
+	}
+	.property-description p {
+		font-size: 14px;
+		line-height: 23px;
+	}
+	.property-description ul li {
+		padding-top: 0;
+		font-size: 14px;
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile Layout: 320px. */
+ 
+@media only screen and (max-width: 767px) {
+
+	.logo {
+		width: 100%;
+		text-align: center;
+	}
+	.logo a {
+		font-size: 48px;
+	}
+	.submit a {
+		display: inline-block;
+		margin-top: 40px;
+		float: right;
+	}	
+	.submit a {
+		margin-left: 0;
+	}
+	.single-banner {
+		padding: 80px 10px;
+	}
+	.single-banner h2 {
+		font-size: 17px;
+	}
+	.single-banner h1 {
+		font-size: 38px;
+		margin: 10px 0;
+	}
+	.single-banner h3 {
+		font-size: 18px;
+	}
+	.house-info-right {
+		margin: -20px 0 0 0;
+	}
+	.house-info-right h3 {
+		text-align: left;
+	}
+	.info-btm-right {
+		margin-top: -60px;
+	}
+	.footer-top img {
+		width: 150px;
+	}
+	.footer-top {
+		padding: 60px 10px;
+	}
+	.footer-down p {
+		font-size: 12px;
+		padding: 10px 10px 5px 0;
+	}
+	.reg {
+		margin: 50px 10px;
+	}
+	.reg-left {
+		display: none;
+	}
+	.reg-right {
+		padding: 20px 20px;
+	}
+	.reg-form {
+		margin: 0;
+	}
+	.user-pannel-left {
+		border-right: 0px;
+		padding: 10px 0;
+	}
+	.user-pannel-left img {
+		margin-left: 65px;
+	}
+	.user-pannel-left a {
+		margin: 0 105px;
+	}
+	.single-user-content {
+		padding: 30px 0 0 0;
+	}
+	.first-intro {
+		padding: 15px 0;
+	}
+	.intro-title h1 {
+		font-size: 26px;
+		text-align: center;
+	}
+	.intro-title p {
+		font-size: 12px;
+		text-align: center;
+	}
+	.rooms-info {
+		margin: 10px 60px;
+	}
+	.rooms-info h2 {
+		font-size: 22px;
+	}
+	.rooms-info p {
+		font-size: 12px;
+	}
+	.amount h2 {
+		padding: 10px 0;
+		text-align: center;
+		font-size: 26px;
+	}
+	.add-cart a {
+		padding: 8px 17px;
+		font-size: 14px;
+	}
+	.number-plate img {
+		width: 62%;
+	}
+	.home-view-banner img {
+		height: 200px;
+	}
+	.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+		height: 200px;
+	}
+	.owner-info h3 {
+		font-size: 15px;
+		font-weight: 700;
+	}
+	.owner-info a {
+		font-size: 12px;
+	}
+	.property-description h2 {
+		font-size: 18px;
+		padding-bottom: 10px;
+	}
+	.property-description p {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.property-description ul li {
+		padding-top: 0;
+		font-size: 12px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+ 
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.single-banner h1 {
+		font-size: 44px;
+	}
+	.house-info-right {
+		margin: 28px 0 0 0;
+		float: right;
+	}
+	.house-info-right h3 {
+		font-size: 32px;
+	}
+	.user-pannel-left img {
+		margin-left: 180px;
+	}
+	.user-pannel-left a {
+		margin: 0 220px;
+	}	
+	.owner-info img {
+		padding: 0px 40%;
+	}
+	.home-view-banner img {
+		height: 250px;
+	}
+	.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+		height: 450px;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
